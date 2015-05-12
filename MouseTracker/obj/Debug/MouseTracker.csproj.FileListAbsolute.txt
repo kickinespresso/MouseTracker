@@ -1,0 +1,17 @@
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\bin\Debug\MouseTracker.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\bin\Debug\MouseTracker.exe
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\bin\Debug\MouseTracker.pdb
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\bin\Debug\MouseKeyboardActivityMonitor.dll
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\bin\Debug\MouseKeyboardActivityMonitor.xml
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MainWindow.baml
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MainWindow.g.cs
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\App.g.cs
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MouseTracker_MarkupCompile.cache
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MouseTracker.g.resources
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MouseTracker.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MouseTracker.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MouseTracker.exe
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MouseTracker.pdb
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\obj\Debug\MouseTracker.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\bin\Debug\Validation.dll
+c:\users\chris\documents\visual studio 2013\Projects\MouseTracker\MouseTracker\bin\Debug\Validation.xml
